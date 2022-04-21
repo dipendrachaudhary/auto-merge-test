@@ -25,5 +25,7 @@ jobs:
         development_branch: 'main'
         allow_ff: false
         allow_forks: true
+        user_name = dipendrachaudhary
+        user_email = dipendrac3@gmail.com
       env:
         GITHUB_TOKEN: ${{ secrets.GIT_SECRET }}
